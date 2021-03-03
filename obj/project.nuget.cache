@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7dQPl5EWLH5JFoWdYfmJ0Bidm2UEriZLs1XNipUwiTEmB+Pqbdl5PDzpzda6LWIu0XcXDDYoEbHlEVrffqarQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jahhh\\GrandCircus\\SWAPI\\SWAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jahhh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
